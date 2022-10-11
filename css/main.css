@@ -61,7 +61,8 @@ a:visited {
 }
 
 .text_body {
-    width: 650px;
+    width: 80%;
+    max-width: 650px;
     margin: 2% auto;
     display: flex;
     flex-direction: column;
