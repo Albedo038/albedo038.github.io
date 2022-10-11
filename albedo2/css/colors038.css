@@ -23,7 +23,6 @@ a:visited {
 
 .main_container {
     width: 100%;
-    /* height: 100%; */
     position: fixed;
     top: 50%;
     -webkit-transform: translate(0, -50%);
