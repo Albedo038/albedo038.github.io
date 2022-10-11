@@ -194,8 +194,8 @@ a:visited {
 }
 
 .whatsapp_magic_icon {
-    width: 70%;
-    height: 70%;
+    width: 75%;
+    height: 75%;
     position: relative;
     background: url(../images/whatsapp_magic_icon.png);
     background-size: contain;
@@ -205,8 +205,8 @@ a:visited {
 }
 
 .whatsapp_rol_icon {
-    width: 70%;
-    height: 70%;
+    width: 75%;
+    height: 75%;
     position: relative;
     background: url(../images/whatsapp_rol_icon.png);
     background-size: contain;
