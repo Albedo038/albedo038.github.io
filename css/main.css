@@ -150,68 +150,67 @@ a:visited {
     align-items: center;
     cursor: pointer;
     box-shadow: 0 0 30px 0 rgba(255, 255, 255, 0.2);
+    object-fit: cover;
 }
 
 .discord_icon {
-    width: 80px;
-    height: 80px;
+    width: 80%;
+    height: 80%;
     position: relative;
     background: url(../images/discord_icon.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
     opacity: 1;
-    top: 2px;
+    top: 2%;
 
 }
 
 .twitter_icon {
-    width: 70px;
-    height: 70px;
+    width: 70%;
+    height: 70%;
     position: relative;
     background: url(../images/twitter_icon.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
     opacity: 1;
-    top: 2px;
-    left: 3px
+    top: 2%;
+    left: 3%
 }
 
 .instagram_icon {
-    width: 70px;
-    height: 70px;
+    width: 70%;
+    height: 70%;
     position: relative;
     background: url(../images/instagram_icon.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
     opacity: 1;
-    left: 1px;
+    left: 1%;
 }
 
 .whatsapp_magic_icon {
-    width: 90px;
-    height: 90px;
+    width: 70%;
+    height: 70%;
     position: relative;
     background: url(../images/whatsapp_magic_icon.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
     opacity: 1;
-    left: 1px;
 }
 
 .whatsapp_rol_icon {
-    width: 90px;
-    height: 90px;
+    width: 70%;
+    height: 70%;
     position: relative;
     background: url(../images/whatsapp_rol_icon.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
     opacity: 1;
-    left: 1px;
 }
 
 .horizontal_line {
