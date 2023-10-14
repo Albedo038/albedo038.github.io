@@ -120,6 +120,13 @@ a:visited {
     text-align: center;
 }
 
+.deactivated{
+    border: none;
+    box-shadow: none;
+    color: rgba(200, 200, 200, 1);
+    pointer-events: none;
+}
+
 .social_media {
     display: flex;
     flex-direction: column;
